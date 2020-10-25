@@ -1,12 +1,4 @@
-# Modifications Srijan Parmeshwar 2017.
-# Copyright UCL Business plc 2017. Patent Pending. All bottoms reserved.
-#
-# The MonoDepth Software is licensed under the terms of the UCLB ACP-A licence
-# which allows for non-commercial use only, the full terms of which are made
-# available in the LICENSE file.
-#
-# For any other use of the software not covered by the UCLB ACP-A Licence, 
-# please contact info@uclb.com
+
 
 from __future__ import division
 from __future__ import print_function
